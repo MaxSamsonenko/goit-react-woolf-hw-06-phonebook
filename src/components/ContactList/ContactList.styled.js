@@ -7,6 +7,16 @@ export const Li = styled.li`
     margin-bottom: 20px;
   }
 `;
+
+export const NameWrap = styled.div`
+  width: 150px;
+`;
+export const NumberWrap = styled.div`
+  width: 100px;
+`;
+export const BtnWrap = styled.div`
+  width: 100px;
+`;
 export const DeleteBtn = styled.button`
   padding: 5px;
   border: 1px solid #212121;
